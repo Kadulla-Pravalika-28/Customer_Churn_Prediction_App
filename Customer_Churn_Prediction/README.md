@@ -1,4 +1,4 @@
-# 📈 Customer Churn Prediction using Machine Learning & Streamlit
+# 📈 Customer Churn Prediction using Machine Learning
 
 This project predicts whether a customer will **churn (leave)** or **stay** based on demographic and service usage data.  
 It includes **data preprocessing, exploratory data analysis (EDA), model training, evaluation, and deployment** with a **Streamlit web app**.

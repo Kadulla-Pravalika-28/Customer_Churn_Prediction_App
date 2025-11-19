@@ -16,7 +16,7 @@ Customer_Churn_Prediction/
 ├── models/
 │ ├── churn_model.h5
 │ ├── scaler.pkl
-│ ├── label_encoders.pkl
+│ └── label_encoders.pkl
 │
 ├── Notebook/
 │ └── churn_analysis.ipynb

@@ -23,8 +23,7 @@ Customer_Churn_Prediction/
 │
 ├── app.py
 ├── requirements.txt
-├── README.md
-└── train_model.py
+└── README.md
 ```
 
 
